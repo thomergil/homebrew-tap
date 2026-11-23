@@ -1,6 +1,6 @@
 cask "cannonball" do
-  version "0.1.2"
-  sha256 "14f9451ff99f4f5a6b342484e3b69642d5d3daa61adc2a752926f906417ea4cd"
+  version "0.1.3"
+  sha256 "11d48b151e9029cc7297bdcc7a4934aa489b45ade18cf435c8abbf53b26dfb8a"
 
   url "https://github.com/thomergil/cannonball/releases/download/v#{version}/Cannonball-#{version}.dmg"
   name "Cannonball"
