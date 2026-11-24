@@ -1,6 +1,6 @@
 cask "open-scansnap" do
-  version "0.1.2"
-  sha256 "57f618e62bcbc3c8641126d734a172bb4a1c6b23a7097751f044f12c997ddc53"
+  version "0.1.3"
+  sha256 "1bba3bbce796a881a728d335974a22fc54792fb5f157bd3e55af16199e34a968"
 
   url "https://github.com/thomergil/open-scansnap/releases/download/v#{version}/OpenScanSnap-#{version}.dmg"
   name "Open ScanSnap"
